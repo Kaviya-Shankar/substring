@@ -1,0 +1,3 @@
+str=input()
+l=set(str)
+print(len(str))
